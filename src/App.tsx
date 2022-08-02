@@ -11,7 +11,7 @@ function App() {
       <HeaderNav />
       <BrowserRouter>
         <Switch>
-          <Route exact path="/web_sale/" component={HomePage} />
+          <Route exact path="/web_sttauth/" component={HomePage} />
         </Switch>
       </BrowserRouter>
       <FooterContact />
